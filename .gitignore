@@ -1,5 +1,8 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+_site/ # ⛔ Don’t track the built site — it’s auto-generated
+.sass-cache  # ⛔ Prevents temp files from Sass (if you use it)
+.jekyll-cache  # ⛔ Jekyll's build cache — unnecessary for version control
+.jekyll-metadata # ⛔ Tracks file modification times (ignore it)
+vendor # ⛔ Ruby gems installed locally by Bundler (optional but smart)
+*.gem
+*.log
+.DS_Store
