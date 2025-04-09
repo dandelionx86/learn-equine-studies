@@ -8,7 +8,7 @@ permalink: /
 # Learn Equine Studies
 
 Welcome to your free, self-paced equine studies platform.  
-We believe in compassionate, accessible, and real-world horsemanship education.
+We believe in compassionate, accessible, and real-world horsemanship education!
 
 ---
 
